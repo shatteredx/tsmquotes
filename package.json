@@ -1,0 +1,10 @@
+{
+  "name": "TSMQuotes",
+  "version": "0.1.0",
+  "description": "Quotes by TSM",
+  "main": "bot.js",
+  "author": "shatteredx",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
