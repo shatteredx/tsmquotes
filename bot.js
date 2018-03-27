@@ -81,7 +81,7 @@ const quotes = [
 "<+THEREALSEXIESTMAN> you gona open your nerd comic book store tomorrow \<+THEREALSEXIESTMAN> stupid weirdo",
 "<+THEREALSEXIESTMAN> youre the fucking loser \ <+THEREALSEXIESTMAN> selling shit comic spider man comic books",
 "<%TSM-LEGENDA> well if you make this channel to learn about my philosophys you can make it 1 vs 1 so i can teach you some new moves",
-"<@[51]chicken-> you're full of shit <+TSM-GOD> whats wrong with that?",
+"<@[51]chicken-> you\'re full of shit <+TSM-GOD> whats wrong with that?",
 "<+REALSEXIESTMAN> my next plan is retired players <+REALSEXIESTMAN> challenges to a death challenge",
 "<%TSM-LEGENDA> i am the king youre the peons",
 "<%TSM-LEGENDA> all i say has been glorified, again it proves that a normal mexican guy can be smartert than all the fucking american computer workers from usa",
