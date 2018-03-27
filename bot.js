@@ -222,7 +222,7 @@ const quotes = [
 "<+TSM-ThepeoplesChamp> well america is the most fat country \ <+TSM-ThepeoplesChamp> im a teacher asshole",
 "<+TSM-Mexicoschampion> i prepare an special sexiestman sauce for sushi im gona upload",
 "<+TSM-ThepeoplesChamp> the kitchen is good for cock the greatest recetes",
-"<+THEREALSEXIESTMAN> pearl harbor got no war \<+THEREALSEXIESTMAN> stupid love shit story \<+THEREALSEXIESTMAN> and japanese people wins that war \<+THEREALSEXIESTMAN> not the americans"
+"<+THEREALSEXIESTMAN> pearl harbor got no war \<+THEREALSEXIESTMAN> stupid love shit story \<+THEREALSEXIESTMAN> and japanese people wins that war \<+THEREALSEXIESTMAN> not the americans",
 "<Imp> u guys got like 10x the action of speedpug \ <SEXIESTMANAUSENTE> im gona punch you",
 "<REALSEXIESTMAN> i play foootball so i know a lot about teamwork",
 "<+REALSEXIESTMAN> stupid fat pie eater \<+REALSEXIESTMAN> you cant even put your hands up cos youre so fat",
@@ -262,7 +262,7 @@ const quotes = [
 "<+REALSEXIESTMAN> he thinks im ugly like you sober but when he see me he go to make some more work out",
 "<TSMChampion> you can call me mister 50 efficiency",
 "<+REALSEXIESTMAN> i know like im not a nerd like theyre \ <+REALSEXIESTMAN> are jelous \ <+REALSEXIESTMAN> the same guy that kick theyr asses on school \ <+REALSEXIESTMAN> come here and kiss theyr asses on videogames \ <+REALSEXIESTMAN> thats me",
-"<+REALSEXIESTMAN> storm is falling on mexico \ <+REALSEXIESTMAN> storms gibes me lag"
+"<+REALSEXIESTMAN> storm is falling on mexico \ <+REALSEXIESTMAN> storms gibes me lag",
 "<+melissa7> till this day i cant believe sexiest is not banned \ <+REALSEXIESTMAN> you must be are banned for pretend by a female \ <+REALSEXIESTMAN> when youre a old fat man",
 "<+[CAMBODIA]TaTa_SnOrLaCk> wha is boost? <+TSM-GOD> boost is a kind of bot <+TSM-GOD> who gives velocity <+TSM-GOD> to your player",
 "<+WoW-TSM> i drinking some whiskey (+WoW-TSM) for celebrate my victory \ <+WoW-TSM> johnny walker \ <+WoW-TSM> blue lavel \ <+WoW-TSM> i like toplay clasical music \ <+WoW-TSM> and drink fine whiskey \ <+WoW-TSM> after a victory",
@@ -305,7 +305,6 @@ const quotes = [
 "<TSMBlog> Some guy from speedpug called Kingkilla send me this nasty disturbing pic ... i think this guy is a fucking loser depravated that just want some attention showing his ugly dick on the plate."
 
 ];
-
 
 const quotesLower = quotes.map(function(value) {
       return value.toLowerCase();
