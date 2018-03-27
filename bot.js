@@ -72,7 +72,7 @@ const quotes = [
 "<DAREALSEXIESTMAN> you will run when you see my muscles",
 "<REALSEXIESTMAN> WHEN I GO TO NIGHT CLUBS I ALWAYS GET 1 OR 2 WOMANS",
 "<+SEXIESTMAN4EVER> your mom have animalips",
-"<+SEXIESTMAN4EVER> dont call me sexyboy you fucking nixon"
+"<+SEXIESTMAN4EVER> dont call me sexyboy you fucking nixon",
 "<DAREALSEXIESTMAN> my ut honour is more important to me than all my girls at school",
 "<TSM-GOD> im focusin all my nowlege to UT like the chinse monks",
 "<TSM-Legend> I just go time for one more question sorry, the message is clear, follow the eagle of freedom, follow what the heart says and listen to the messages of the nature,the river is the greatest master when youre in troubles",
