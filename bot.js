@@ -1058,7 +1058,11 @@ const quotes = [
 "<+TSM-LEGEND> friend the other day i spec depain he play like radar cos hes fighthing skills not even strong but he plays like can see the future",
 "<TSM-LEGEND> u fuckin <TSM-LEGEND> whitetrasher <TSM-LEGEND> from the ranch <TSM-LEGEND> i know from where u come my friend",
 "<Saozin> i make a feet website \ <Saozin> but \ <Saozin> wasent popular \ <Saozin> nobody send me money \ <Saozin> want to see some pics?",
-
+"<MATY62PUGS28WINS21D14LOSE> ure ugly and stupid as fuck <MATY62PUGS28WINS21D14LOSE> u has never kissed afemale friend <MATY62PUGS28WINS21D14LOSE> u jerkess to ur mom sleeping damn perverted of shit",
+"(+matias-12pugs-7wins-2loses-3dr) u so boring i can see all ur life on a book of school of how to grow up have a family a bad boring job and then die with nephews and stepchildren",
+"<Leyendas> i get lots of girls inf cebok today friend <Leyendas> i tell them to blow me i tell this to 3 <Leyendas> and she replied <Leyendas> gosh im not agirl like that <Leyendas> obviously she want dicks friend",
+"<LA_LEYENDA> hes wierdo <LA_LEYENDA> hes a fine weirdo <LA_LEYENDA> like the looney of the town <LA_LEYENDA> hes inofencive friend",
+"<LA_LEYENDA> ima wash ur mouth  <LA_LEYENDA> with jabone <LA_LEYENDA> and teach u a lesson friend <smant> whats jabone <LA_LEYENDA> the thing u use to clean ur asshole",
 ];
 const quotesLower = quotes.map(function(value) {
       return value.toLowerCase();
