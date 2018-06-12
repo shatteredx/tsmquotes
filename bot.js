@@ -1063,6 +1063,8 @@ const quotes = [
 "<Leyendas> i get lots of girls inf cebok today friend <Leyendas> i tell them to blow me i tell this to 3 <Leyendas> and she replied <Leyendas> gosh im not agirl like that <Leyendas> obviously she want dicks friend",
 "<LA_LEYENDA> hes wierdo <LA_LEYENDA> hes a fine weirdo <LA_LEYENDA> like the looney of the town <LA_LEYENDA> hes inofencive friend",
 "<LA_LEYENDA> ima wash ur mouth  <LA_LEYENDA> with jabone <LA_LEYENDA> and teach u a lesson friend <smant> whats jabone <LA_LEYENDA> the thing u use to clean ur asshole",
+"<LA_LEYENDA> h4h4h4h4 <LA_LEYENDA> you going to respect my best friend <LA_LEYENDA> is that clear <Kat> no <LA_LEYENDA> *punches in stomachee* <Kat> u don't tell me what to do bc ur dummy <LA_LEYENDA> u dont want me to get violent <LA_LEYENDA> *kick in the back* <Kat> ur in mexico and i'm in america, stupid head <LA_LEYENDA> i kick ur back but since u got the back of football player my kick does not hurt you",
+"[7:07 PM] <LA_LEYENDA> ?? Kat u better respect me now im the biggest legend in videogames and life",
 ];
 const quotesLower = quotes.map(function(value) {
       return value.toLowerCase();
