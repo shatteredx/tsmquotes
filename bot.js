@@ -1,14 +1,11 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const config = require("./config.json");
-const fs = require("fs");
-fs.readFile('quotes.txt', function(err, data) {
-    if(err) throw err;
-    var quotes = data.toString().split("\n");
-    for(i in quotes) {
-        console.log(quotes[i]);
-    }
-});
+var fs = require('fs');
+var quotes = fs.readFileSync('quotes.txt').toString().split("\n");
+for(i in quotes) {
+    console.log(quotes[i]);
+}
 const quotesLower = quotes.map(function(value) {
       return value.toLowerCase();
 });
