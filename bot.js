@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const config = require("./config.json");
 var fs = require('fs');
-var quotes = fs.readFileSync('quotes.txt').split("\n");
+var quotes = fs.readFileSync('quotes.txt').toString().split("\n");
 for(i in quotes) {
     console.log(quotes[i]);
 }
